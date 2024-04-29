@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain-experimental
+faiss-gpu
+pypdf
+python-docx
+python-pptx
+unstructured
+taipy
+python-magic-bin==0.4.14
