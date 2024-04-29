@@ -1,5 +1,5 @@
 # F4763 Ch09 #
-可以前往 [專案](https://replit.com/@flagtech/Officefilebot)實際操作
+可以前往[專案](https://replit.com/@flagtech/Officefilebot)實際操作
 
 這份原始碼有加入可以讀取含有圖片的 PDF 檔案
 
